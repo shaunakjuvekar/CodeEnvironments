@@ -1,1 +1,17 @@
-My role in the meeting was to record the minutes and important points discussed in the meeting. I was also a participant for the meeting. 
+
+
+Shaunak - I was the moderator of the stand up meeting. I ensured a proper flow of the meeting and and 
+am responsible for checking whether each team member's goals have been achieved.
+
+My status - I'm currently looking at implemntation details of the Reward bot. In addition, I'll complete the technical
+interview workshop by tonight.
+
+We used the Three stickies method from the guest lecture to conduct our meeting.
+
+Samar: I was the individual contributor in the meeting.
+
+My Status: I recorded my Technical Interview Workshop yesterday and I am currently contributing to my Ethic course mid term report.
+
+
+Shankar - My role in the meeting was to record the minutes and important points discussed in the meeting. I was also a participant for the meeting.
+My status - I am currently working on the midterm report for the Ethics course. I am also reading up about vue.js framework. 
