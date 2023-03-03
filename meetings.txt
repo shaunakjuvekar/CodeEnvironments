@@ -1,17 +1,51 @@
+﻿1. Meeting Agenda - Status (Standup)
 
 
-Shaunak - I was the moderator of the stand up meeting. I ensured a proper flow of the meeting and and 
-am responsible for checking whether each team member's goals have been achieved.
-
-My status - I'm currently looking at implemntation details of the Reward bot. In addition, I'll complete the technical
-interview workshop by tonight.
-
-We used the Three stickies method from the guest lecture to conduct our meeting.
-
-Samar: I was the individual contributor in the meeting.
-
-My Status: I recorded my Technical Interview Workshop yesterday and I am currently contributing to my Ethic course mid term report.
+Shaunak: I'm currently looking at implementation details of the Reward bot. In addition, I'll complete the technical interview workshop by tonight.
 
 
-Shankar - My role in the meeting was to record the minutes and important points discussed in the meeting. I was also a participant for the meeting.
-My status - I am currently working on the midterm report for the Ethics course. I am also reading up about vue.js framework. 
+Samar: I recorded my Technical Interview Workshop yesterday and I am currently contributing to my Ethic course mid term report.
+
+
+Shankar: I am currently working on the midterm report for the Ethics course. I am also reading up about vue.js framework. 
+
+
+Fasi: I practiced the leetcode questions in order to prepare for the technical interview workshop.
+I will be recording the interview by today.
+
+
+
+
+2. Meeting Agenda: Discussion on Whether or not daily standups will be useful to implement for new dev group
+
+
+Attendees: Shaunak (Moderator), Fasi (Product Manager), Shankar (Manager), and Samar (Secretary)
+
+
+Meeting Points:
+
+
+Shaunak
+Role: Moderator of the stand-up meeting. Ensured a proper flow of the meeting.
+Used the Three Stickies method from the guest lecture to conduct the meeting.
+Minute points: Documented the decisions, action items, and any concerns raised during the meeting.
+
+
+Fasi:
+Role: Product Manager of the new dev group.
+Discussed the requirements and expectations from the new product.
+Discussed how daily standups would align with the product goals and benefit the team.
+
+
+Shankar:
+Role: Manager of the new dev group.
+Estimated the effort required for the product requirements.
+Discussed how daily standups would impact the team's workload and productivity.
+
+
+Samar:
+Role: Secretary to record the minutes and important points discussed in the meeting.
+Documented the key takeaways, action items, and any questions raised during the meeting.
+Shared the meeting minutes with the attendees and any relevant stakeholders.
+
+After a thorough discussion, the team concluded that daily standups would be beneficial for the new development team. The attendees agreed that daily standups would improve communication and coordination within the team, and help identify and address any issues or blockers in a timely manner.
