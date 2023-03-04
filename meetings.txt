@@ -15,3 +15,6 @@ My Status: I recorded my Technical Interview Workshop yesterday and I am current
 
 Shankar - My role in the meeting was to record the minutes and important points discussed in the meeting. I was also a participant for the meeting.
 My status - I am currently working on the midterm report for the Ethics course. I am also reading up about vue.js framework. 
+
+Fasi - My role in the meeting was as a contributor. I have fulfilled my role by explaining the things i have so far, any pending activites
+My status - I have completed th eexploration of various slack bots and their functionalities for my project,recorded my technical Interview workshop today and completed the Advance Machine Learning Assignment . I am yet to implement REST API in my project.
