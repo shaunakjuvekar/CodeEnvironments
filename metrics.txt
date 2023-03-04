@@ -1,6 +1,6 @@
 ﻿Author: Samar Kansal, samarkansal 
          Shankar Srinidhi Srinivas 
-         Fasi Ullah Khan Mohammed, fasi,
+         Fasi Ullah Khan Mohammed, fasi
          Shaunak Juvekar jshaunak
  
 
@@ -65,6 +65,7 @@ Answer: 2.3774437510817346
 
 
 -------------------------------------------------------------------
+Author: Fasi Ullah Khan Mohammed, fasi
 For hello.c - 
 1. How many total lines of source code are in the merged hello.<ext> file for your pair programming workshop repository (main branch)?
 Answer: 6
