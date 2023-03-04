@@ -1,4 +1,5 @@
 ﻿Author: Samar Kansal, samarkansal
+ Shankar Srinidhi Srinivas
 
 
 
@@ -33,3 +34,32 @@ Answer: 4.754887502163469
 Answer: 0.5
 6. ...the estimated effort required to maintain the MVC pattern?
 Answer: 2.3774437510817346
+
+
+For hello.java - 
+1. How many total lines of source code are in the merged hello.<ext> file for your pair programming workshop repository (main branch)?
+Answer: 5
+2. How many total lines of comments are in the hello.<ext> file for your pair programming workshop repository (main branch)?
+Answer: 0
+3. How many total lines of code are in the hello.<ext> file for your branch of the pair programming workshop repository?
+Answer: 5
+
+Advanced Software Metrics
+
+Cyclomatic Complexity
+1.the handle method (M) in the Handler class for the Chain of Responsibility pattern?
+Answer: 3
+2. the start method (M) for the Facade pattern?
+Answer: 1
+3. the Adapter class (C) for the Adapter pattern?
+Answer: 2
+
+
+Halstead's Metrics
+4. the volume of the Factory pattern?
+Answer: 4.754887502163469
+5. the difficulty of the Adapter pattern?
+Answer: 0.5
+6. the estimated effort required to maintain the MVC pattern?
+Answer: 2.3774437510817346
+
