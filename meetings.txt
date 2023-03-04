@@ -16,6 +16,7 @@ My Status: I recorded my Technical Interview Workshop yesterday and I am current
 Shankar - My role in the meeting was to record the minutes and important points discussed in the meeting. I was also a participant for the meeting.
 My status - I am currently working on the midterm report for the Ethics course. I am also reading up about vue.js framework. 
 
-Fasi - My role in the meeting was as manager. 
+Fasi - My role in the meeting was as manager. Discussed the requirements and expectations from the new product.Discussed how daily standups would align with the product goals and benefit the team.
+
 My Status: I practiced the leetcode questions in order to prepare for the technical interview workshop.
 I will be recording the interview by today.
